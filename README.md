@@ -1,6 +1,6 @@
 # 📊 Project Title
 
-**Visualizing Housing Market Trends: An Analysis of Sale Prices and Features using Tableau**
+**Plugging into the Future: An Exploration of Electricity Consumption Patterns**
 
 ---
 
@@ -8,10 +8,9 @@
 
 | SkillWallet ID | Name | Role | Profile Link |
 |---------------|------|------|-------------|
-| SUID2026202817 | VALASAREDDY MEGHANA | Team Lead | [View Profile](https://public.tableau.com/app/profile/meghana.v7778/vizzes) |
-| SWUID2026202805 | MADAPARTHI HARIKA | Team Member | [View Profile](https://public.tableau.com/app/profile/madaparthi.harika) |
-| SWUIS2026202816 | UGRANAM GAYATHRI | Team Member | [View Profile](https://public.tableau.com/app/profile/ugranam.gayathri) |
-| SWUIS2026202816 | UGRANAM GAYATHRI | Team Member | [View Profile](https://public.tableau.com/app/profile/ugranam.gayathri) |
+| SWUID2026202770 | BURRI NIKSHITHA | Team Lead | [View Profile](https://public.tableau.com/app/profile/nikshitha.burri) |
+| SWUID2026202791 | SAMADHI HARSHITHA | Team Member | [View Profile](https://public.tableau.com/app/profile/harshitha.samadhi) |
+| SWUID2026202792 | SELVARAJ YASWINI | Team Member | [View Profile](https://public.tableau.com/app/profile/yaswini.selvaraj) |
 
 ---
 
